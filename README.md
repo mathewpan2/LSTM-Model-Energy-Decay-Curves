@@ -204,22 +204,23 @@ joblib==1.4.2
 If you use this repository in your research, please cite:
 
 ```
-@inproceedings{Author2026RIR,
+@inproceedings{ImranSchuller2025aRIR,
   title={Deep learning-based prediction of energy decay curves from room geometry and material properties},
   author={Imran MUhammad, Gerald Schuller},
-  booktitle={https://arxiv.org/abs/2509.24834},
-  year={2026}
-  DOI: https://doi.org/10.48550/arXiv.2509.24834
+  booktitle={https://arxiv.org/abs/2509.24769},
+  year={2026},
+  DOI= {https://doi.org/10.48550/arXiv.2509.24769}
 }
 ```
 ---
 
 ```
-@inproceedings{Author2026RIR,
+@inproceedings{ImranSchuller2025bRIR,
   title={Room impulse response prediction with neural networks: from energy decay curves to perceptual validation},
   author={Imran MUhammad, Gerald Schuller},
   booktitle={https://arxiv.org/abs/2509.24834},
-  year={2026}
+  year={2025},
+  DOI= {https://doi.org/10.48550/arXiv.2509.24834}
 }
 ```
 
