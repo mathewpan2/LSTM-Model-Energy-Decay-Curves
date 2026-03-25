@@ -1,5 +1,5 @@
 # **Room Impulse Response (RIR) Reconstruction**
-**LSTM and Conv. Net based EDC Prediction**
+**LSTM and Conv. Net based EDC Prediction**  
 ![Banner](https://img.shields.io/badge/ICASSP-2026-blue) 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-Lightning-orange) 
