@@ -51,7 +51,7 @@ coverage.xml
 .pytest_cache/
 cover/
 lightning_logs/
-Models/
+Models/models/
 Results/
 
 # Translations
